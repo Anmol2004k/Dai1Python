@@ -12,4 +12,7 @@ print(joke)
 hello i am 
 anmol
 my life is Awsome 
+
 """
+
+print("Hello World")
